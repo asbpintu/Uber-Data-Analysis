@@ -1,8 +1,8 @@
 import pandas as pd
 from pathlib import Path
-from db_engine import get_engine
-from utils import create_directories, read_sql_file, extract_table_name
-from logger import setup_logger
+from src.db_engine import get_engine
+from src.utils import create_directories, read_sql_file, extract_table_name
+from src.logger import setup_logger
 
 def main():
     logger = setup_logger()
