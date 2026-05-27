@@ -1,0 +1,81 @@
+# 🚗 Uber Data Analysis Dashboard
+
+## 📌 Overview
+
+Ride-hailing platforms like Uber operate in a highly dynamic environment where demand, pricing, and user behavior constantly change. Analyzing this data effectively is essential for improving operational efficiency and delivering a better customer experience.
+
+In this project, I developed an interactive **Uber Data Analysis Dashboard using Power BI** to explore ride bookings, revenue patterns, cancellations, and customer behavior. The goal was to transform raw ride data into actionable insights that can support business decision-making.
+
+---
+
+## ⚙️ Approach
+
+The project started with data preparation and modeling, where I structured the dataset to ensure efficient analysis. Using **Power BI and DAX**, I created key performance indicators such as total bookings, completed rides, cancellations, revenue, and trip distance.
+
+Once the foundational metrics were established, I designed an interactive dashboard with dynamic filters, allowing users to explore data across different vehicle categories and time periods.
+
+Key steps involved:
+
+* Data cleaning and transformation using Power Query
+* Creating calculated columns and measures using DAX
+* Building a star-schema data model for better performance
+* Designing interactive visuals with slicers and filters
+* Implementing time-based analysis using a calendar table
+
+I then performed multi-dimensional analysis:
+
+* **Vehicle-level analysis** to understand contribution across segments
+* **Time-based analysis** to identify demand patterns
+* **Cancellation analysis** to uncover operational issues
+* **Ratings and payment analysis** to evaluate user behavior
+
+---
+
+## 📊 Results & Insights
+
+The analysis revealed several important insights about the platform's performance and challenges.
+
+The **Auto segment emerged as the primary driver**, contributing approximately **40–45% of total bookings and revenue**, making it the backbone of the platform. In contrast, premium vehicle categories contributed **lower ride volume (~10–15%) but higher revenue per trip**.
+
+Time-based analysis showed that **over 60% of total rides occur during morning and evening peak hours**, clearly reflecting daily commute behavior. These peak windows also contribute the majority of revenue.
+
+One of the most critical findings came from cancellation analysis. Around **30–40% of total bookings were lost due to cancellations**, which is a significant business concern.
+
+Key insights:
+
+* ❌ **30–40% ride cancellation rate** impacts revenue and customer trust
+* 🚘 **Auto segment contributes ~40%+ of total rides**
+* ⏰ **Peak hours generate ~60% of total demand**
+* ⭐ Average ratings remain low (**~2.6–2.7**), indicating service gaps
+* 💳 **UPI accounts for the majority of transactions (~50%+)**
+
+A deeper look into cancellations showed that the majority were driven by operational issues such as:
+
+* Drivers not moving toward pickup
+* Driver-requested cancellations
+* Service-related issues (e.g., AC not working)
+
+The **ratings analysis indicated relatively low customer and driver satisfaction**, suggesting the need for improvements in service quality and reliability.
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates how data visualization can go beyond reporting and become a powerful tool for decision-making. By combining operational metrics with behavioral insights, the dashboard highlights not only what is happening but also why it is happening.
+
+Key outcomes:
+
+* Identified **high cancellation rates (up to 40%)** impacting revenue
+* Highlighted **peak demand periods contributing majority of rides**
+* Revealed **vehicle-level contribution patterns**
+* Uncovered **customer experience gaps through ratings analysis**
+* Validated **shift toward digital payments (UPI dominance)**
+
+From a technical perspective, this project reflects my ability to:
+
+* Build end-to-end data analytics solutions
+* Apply DAX for advanced calculations
+* Design intuitive and interactive dashboards
+* Translate data into actionable business insights
+
+🔗 View Project: Add your GitHub / Live Dashboard link here
