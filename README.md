@@ -54,6 +54,7 @@ Vehicle-wise analysis highlights how different ride categories contribute to ove
 
 ---
 Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGEyNzQ0ODgtMzg4Ni00ZWZjLThmZjQtMjI2ZmRhYWVmNTI5IiwidCI6ImJjMmRjNzNhLWZhM2QtNGNiZS1iZGM4LWI0NjhjNDY0NjM2ZiJ9)
+
 ![Vehicle](./assets/vehicle.png)
 
 ### 📈 Time-Based Insights
@@ -71,6 +72,7 @@ Revenue insights help identify the most profitable segments and time periods.
 
 ---
 Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGEyNzQ0ODgtMzg4Ni00ZWZjLThmZjQtMjI2ZmRhYWVmNTI5IiwidCI6ImJjMmRjNzNhLWZhM2QtNGNiZS1iZGM4LWI0NjhjNDY0NjM2ZiJ9)
+
 ![Revenue](./assets/revenue.png)
 
 ### ❌ Cancellation Insights
@@ -111,6 +113,7 @@ Location analysis helps identify high-demand areas for better resource allocatio
 
 ---
 Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGEyNzQ0ODgtMzg4Ni00ZWZjLThmZjQtMjI2ZmRhYWVmNTI5IiwidCI6ImJjMmRjNzNhLWZhM2QtNGNiZS1iZGM4LWI0NjhjNDY0NjM2ZiJ9)
+
 ---
 
 ### 🎛️ Dashboard UX Enhancement
@@ -127,6 +130,7 @@ To improve user experience and interactivity, a dynamic navigation feature is im
 ![Ovewview](./assets/menu%20button.png)
 ---
 Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGEyNzQ0ODgtMzg4Ni00ZWZjLThmZjQtMjI2ZmRhYWVmNTI5IiwidCI6ImJjMmRjNzNhLWZhM2QtNGNiZS1iZGM4LWI0NjhjNDY0NjM2ZiJ9)
+
 ---
 ![Ovewview](./assets/menu%20slicers.png)
 
@@ -161,6 +165,7 @@ Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/
 This dashboard highlights that the biggest growth opportunity is not just increasing demand, but **fixing operational inefficiencies to convert more bookings into successful rides**.
 
 Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGEyNzQ0ODgtMzg4Ni00ZWZjLThmZjQtMjI2ZmRhYWVmNTI5IiwidCI6ImJjMmRjNzNhLWZhM2QtNGNiZS1iZGM4LWI0NjhjNDY0NjM2ZiJ9)
+
 ---
 ![Ovewview](./assets/overview.png)
 
@@ -237,6 +242,7 @@ This will directly lead to:
 
 ---
 Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGEyNzQ0ODgtMzg4Ni00ZWZjLThmZjQtMjI2ZmRhYWVmNTI5IiwidCI6ImJjMmRjNzNhLWZhM2QtNGNiZS1iZGM4LWI0NjhjNDY0NjM2ZiJ9)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -308,6 +314,7 @@ Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/
 
 ---
 Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGEyNzQ0ODgtMzg4Ni00ZWZjLThmZjQtMjI2ZmRhYWVmNTI5IiwidCI6ImJjMmRjNzNhLWZhM2QtNGNiZS1iZGM4LWI0NjhjNDY0NjM2ZiJ9)
+
 ---
 
 ## 🏁 Conclusion
