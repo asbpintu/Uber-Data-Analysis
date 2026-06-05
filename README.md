@@ -1,6 +1,8 @@
 
 Poewr BI Dashboard link : [Click to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGEyNzQ0ODgtMzg4Ni00ZWZjLThmZjQtMjI2ZmRhYWVmNTI5IiwidCI6ImJjMmRjNzNhLWZhM2QtNGNiZS1iZGM4LWI0NjhjNDY0NjM2ZiJ9)
 
+Blog on Medium : [Click to Read the Blog](https://medium.com/@asbpintu/how-i-built-an-interactive-uber-data-analysis-dashboard-using-power-bi-python-and-sql-4d524313e6ec)
+
 
 # 🚗 Uber Data Analysis - Intractive Dashboard - Python, Power BI, SQL
 
